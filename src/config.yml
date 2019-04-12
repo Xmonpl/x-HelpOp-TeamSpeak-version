@@ -1,0 +1,9 @@
+ts3:
+  #ip serwera ts3
+  host: 'localhost'
+  #login query ts3
+  login: 'serverquery'
+  #haslo query ts3
+  password: 'haslo'
+  #id rangi do której ma pisać bot
+  group: 5

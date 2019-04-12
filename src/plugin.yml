@@ -1,0 +1,6 @@
+name: 'x-HelpOp'
+main: tk.xmon.helpop.HelpOp
+author: 'Xmon'
+version: '1.0'
+commands:
+  helpop:
