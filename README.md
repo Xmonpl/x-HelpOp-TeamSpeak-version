@@ -4,6 +4,12 @@
 x-AntyMacro - this is Minecraft plugin for 1.8.x-1.13.x version. 
 The plugin allows for better player contact with the administrator via the command '/helpop message' The player's message will reach the administrator via teamspeak and in the game.
 
+Presentation of the plugin: 
+
+TeamSpeak version https://www.youtube.com/watch?v=LRDSlXZ0nPY
+
+Discord version https://www.youtube.com/watch?v=aek0TQEjOqI
+
 Plugin use [TeamSpeak 3 Java API](https://github.com/TheHolyWaffle/TeamSpeak-3-Java-API) library.
 ## Installation
 
