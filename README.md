@@ -1,7 +1,7 @@
 # x-HelpOp-TeamSpeak-version
 
 
-x-AntyMacro - this is Minecraft plugin for 1.8.x-1.13.x version. 
+x-HelpOp-TeamSpeak-version - this is Minecraft plugin for 1.8.x-1.13.x version. 
 The plugin allows for better player contact with the administrator via the command '/helpop message' The player's message will reach the administrator via teamspeak and in the game.
 
 Presentation of the plugin: 
